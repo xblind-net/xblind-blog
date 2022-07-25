@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xblind.net</title>
+  
+  <subtitle>安全盲点</subtitle>
+  <link href="https://xblind.net/atom.xml" rel="self"/>
+  
+  <link href="https://xblind.net/"/>
+  <updated>2022-07-25T01:04:06.738Z</updated>
+  <id>https://xblind.net/</id>
+  
+  <author>
+    <name>xblind</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简单聊聊应用安全领域中的技术安全运营</title>
+    <link href="https://xblind.net/2022/07/15/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8A%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E9%A2%86%E5%9F%9F%E4%B8%AD%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5/"/>
+    <id>https://xblind.net/2022/07/15/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8A%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E9%A2%86%E5%9F%9F%E4%B8%AD%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5/</id>
+    <published>2022-07-15T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>技术安全运营是一个上限极高同时又下限极低的一个角色，做好不易。</strong></p><p>注解：本文中“技术安全运营”的定义</p><p>安全团队中的工种基本可以分为两类，“运营岗”和“技术岗”，而“技术岗”有可以分为开发安全产品的“研发岗/算法岗”]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;技术安全运营是一个上限极高同时又下限极低的一个角色，做好不易。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;注解：本文中“技术安全运营”的定义&lt;/p&gt;
+&lt;p&gt;安全团队中的工种基本可以分为两类，“运营岗”和“技术岗”，而“技术岗”有可以分为开发安全产品的“研发岗/算法岗”</summary>
+      
+    
+    
+    
+    <category term="应用安全" scheme="https://xblind.net/categories/%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cloud I Hack into Google Cloud</title>
+    <link href="https://xblind.net/2022/06/10/Cloud%20I%20Hack%20into%20Google%20Cloud/"/>
+    <id>https://xblind.net/2022/06/10/Cloud%20I%20Hack%20into%20Google%20Cloud/</id>
+    <published>2022-06-10T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>在本月初，Google宣布了去年2021的Google Cloud Platform的六个VRP漏洞（ GCP VRP 奖旨在鼓励安全研究人员关注 GCP 的安全性，从而帮助我们为我们的用户、客户和整个互联网提高 GCP 的安全性），希望鼓励更多的安全研究者涉足云安全领域，]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在本月初，Google宣布了去年2021的Google Cloud Platform的六个VRP漏洞（ GCP VRP 奖旨在鼓励安全研究人员关注 GCP 的安全性，从而帮助我们为我们的用户、客户和整个互联网提高 GCP 的安全性），希望鼓励更多的安全研究者涉足云安全领域，</summary>
+      
+    
+    
+    
+    <category term="云安全" scheme="https://xblind.net/categories/%E4%BA%91%E5%AE%89%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>以攻防对抗为核心—如何防御网络钓鱼(来自国家反诈的启示)</title>
+    <link href="https://xblind.net/2022/06/08/%E4%BB%A5%E6%94%BB%E9%98%B2%E5%AF%B9%E6%8A%97%E4%B8%BA%E6%A0%B8%E5%BF%83%E2%80%94%E5%A6%82%E4%BD%95%E9%98%B2%E5%BE%A1%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC(%E6%9D%A5%E8%87%AA%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E7%9A%84%E5%90%AF%E7%A4%BA)/"/>
+    <id>https://xblind.net/2022/06/08/%E4%BB%A5%E6%94%BB%E9%98%B2%E5%AF%B9%E6%8A%97%E4%B8%BA%E6%A0%B8%E5%BF%83%E2%80%94%E5%A6%82%E4%BD%95%E9%98%B2%E5%BE%A1%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC(%E6%9D%A5%E8%87%AA%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E7%9A%84%E5%90%AF%E7%A4%BA)/</id>
+    <published>2022-06-08T01:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="引子"><a class="link"  class="headerlink"  href="https://uxss.net/atom.xml#引子"  title="引子"><i class="fas fa-external-link-alt"></i></a>引子</h2><p>昨天处理了一个简单的钓鱼事件，同时结合最近准备攻防对抗的一些思考，简单聊一下“如何应对网络钓鱼”这个难题。</p><h2 id="网络钓鱼]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引子&quot;&gt;&lt;a class=&quot;link&quot;  class=&quot;headerlink&quot;  href=&quot;https://uxss.net/atom.xml#引子&quot;  title=&quot;引子&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/a</summary>
+      
+    
+    
+    
+    <category term="应用安全" scheme="https://xblind.net/categories/%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于XDR的一点笔记</title>
+    <link href="https://xblind.net/2022/05/27/%E5%85%B3%E4%BA%8EXDR%E7%9A%84%E4%B8%80%E7%82%B9%E7%AC%94%E8%AE%B0/"/>
+    <id>https://xblind.net/2022/05/27/%E5%85%B3%E4%BA%8EXDR%E7%9A%84%E4%B8%80%E7%82%B9%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-05-27T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>面对攻击者日益先进的战术、技术和程序(TTPs)，仍是一场艰难的战斗。随着大量新且隐蔽的攻击方法出现，我们除了威胁预防外，更需要新的策略和战术去检测和响应。</p><p>当我们的安全团队努力防止针对我们组织的攻击成功时，必须面对一个事实：没有绝对安全的系统，威胁终会到来。]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;面对攻击者日益先进的战术、技术和程序(TTPs)，仍是一场艰难的战斗。随着大量新且隐蔽的攻击方法出现，我们除了威胁预防外，更需要新的策略和战术去检测和响应。&lt;/p&gt;
+&lt;p&gt;当我们的安全团队努力防止针对我们组织的攻击成功时，必须面对一个事实：没有绝对安全的系统，威胁终会到来。</summary>
+      
+    
+    
+    
+    <category term="安全建设" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——零信任下的用户访问</title>
+    <link href="https://xblind.net/2022/05/18/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E9%9B%B6%E4%BF%A1%E4%BB%BB%E4%B8%8B%E7%9A%84%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE/"/>
+    <id>https://xblind.net/2022/05/18/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E9%9B%B6%E4%BF%A1%E4%BB%BB%E4%B8%8B%E7%9A%84%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE/</id>
+    <published>2022-05-18T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><blockquote><p>用户访问通常是零信任的第一要务，因为它可以迅速带来生产力优势和关键漏洞的安全覆盖</p></blockquote></blockquote><p><img lazyload src="/images/loading.]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用户访问通常是零信任的第一要务，因为它可以迅速带来生产力优势和关键漏洞的安全覆盖&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img lazyload src=&quot;/images/loading.</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——使用零信任快速实现安全现代化</title>
+    <link href="https://xblind.net/2022/05/17/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8%E9%9B%B6%E4%BF%A1%E4%BB%BB%E5%BF%AB%E9%80%9F%E5%AE%9E%E7%8E%B0%E5%AE%89%E5%85%A8%E7%8E%B0%E4%BB%A3%E5%8C%96/"/>
+    <id>https://xblind.net/2022/05/17/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8%E9%9B%B6%E4%BF%A1%E4%BB%BB%E5%BF%AB%E9%80%9F%E5%AE%9E%E7%8E%B0%E5%AE%89%E5%85%A8%E7%8E%B0%E4%BB%A3%E5%8C%96/</id>
+    <published>2022-05-17T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><blockquote><p>这些是使用零信任快速实现安全现代化的建议优先事项</p></blockquote></blockquote><p><img lazyload src="/images/loading.svg" data-src="1]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这些是使用零信任快速实现安全现代化的建议优先事项&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img lazyload src=&quot;/images/loading.svg&quot; data-src=&quot;1</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——零信任原则</title>
+    <link href="https://xblind.net/2022/05/17/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E9%9B%B6%E4%BF%A1%E4%BB%BB%E5%8E%9F%E5%88%99/"/>
+    <id>https://xblind.net/2022/05/17/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E9%9B%B6%E4%BF%A1%E4%BB%BB%E5%8E%9F%E5%88%99/</id>
+    <published>2022-05-17T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><blockquote><p>零信任以全新的战略视角关注最初的安全使命（使资产不受攻击者控制）</p></blockquote></blockquote><p>我们运行的 IT 环境从一开始就很复杂，由许多设备、用户身份以及它们之间的交互组成</]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;零信任以全新的战略视角关注最初的安全使命（使资产不受攻击者控制）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我们运行的 IT 环境从一开始就很复杂，由许多设备、用户身份以及它们之间的交互组成&lt;/</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——操作技术(OT)安全架构参考</title>
+    <link href="https://xblind.net/2022/05/16/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E6%93%8D%E4%BD%9C%E6%8A%80%E6%9C%AF(OT)%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E5%8F%82%E8%80%83/"/>
+    <id>https://xblind.net/2022/05/16/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E6%93%8D%E4%BD%9C%E6%8A%80%E6%9C%AF(OT)%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E5%8F%82%E8%80%83/</id>
+    <published>2022-05-16T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>#安全架构网络安全架构体系参考——操作技术(OT)安全架构参考</p><blockquote><blockquote><p>“在OT和工业物联网环境中应用零信任原则”</p></blockquote></blockquote><p>操作技术 (OT) 和工业物联]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#安全架构网络安全架构体系参考——操作技术(OT)安全架构参考&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“在OT和工业物联网环境中应用零信任原则”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;操作技术 (OT) 和工业物联</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——跨越攻击链进行防御(内部和外部威胁)</title>
+    <link href="https://xblind.net/2022/05/15/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E8%B7%A8%E8%B6%8A%E6%94%BB%E5%87%BB%E9%93%BE%E8%BF%9B%E8%A1%8C%E9%98%B2%E5%BE%A1(%E5%86%85%E9%83%A8%E5%92%8C%E5%A4%96%E9%83%A8%E5%A8%81%E8%83%81)/"/>
+    <id>https://xblind.net/2022/05/15/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E8%B7%A8%E8%B6%8A%E6%94%BB%E5%87%BB%E9%93%BE%E8%BF%9B%E8%A1%8C%E9%98%B2%E5%BE%A1(%E5%86%85%E9%83%A8%E5%92%8C%E5%A4%96%E9%83%A8%E5%A8%81%E8%83%81)/</id>
+    <published>2022-05-15T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><blockquote><p>Microsoft 为外部攻击和内部风险中出现的各种攻击技术提供端到端的集成可见性</p></blockquote></blockquote><p>外部威胁——攻击者很灵活，可以在攻击链序列中使用各种攻击技术来达到他]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Microsoft 为外部攻击和内部风险中出现的各种攻击技术提供端到端的集成可见性&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;外部威胁——攻击者很灵活，可以在攻击链序列中使用各种攻击技术来达到他</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——多云跨平台技术</title>
+    <link href="https://xblind.net/2022/05/14/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E5%A4%9A%E4%BA%91%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%8A%80%E6%9C%AF/"/>
+    <id>https://xblind.net/2022/05/14/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E5%A4%9A%E4%BA%91%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%8A%80%E6%9C%AF/</id>
+    <published>2022-05-14T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>当今大多数组织都在运行一个复杂的环境，其中包括众多操作系统平台、SaaS 云服务和 IaaS/PaaS 云提供商。 根据您的行业，这通常还包括各种操作技术（也称为 SCADA、ICS 或 PCN）和物联网设备</p><h2 id="多云跨平台技术"><a href="#多]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;当今大多数组织都在运行一个复杂的环境，其中包括众多操作系统平台、SaaS 云服务和 IaaS/PaaS 云提供商。 根据您的行业，这通常还包括各种操作技术（也称为 SCADA、ICS 或 PCN）和物联网设备&lt;/p&gt;
+&lt;h2 id=&quot;多云跨平台技术&quot;&gt;&lt;a href=&quot;#多</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——安全角色和职责</title>
+    <link href="https://xblind.net/2022/05/13/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E5%AE%89%E5%85%A8%E8%A7%92%E8%89%B2%E5%92%8C%E8%81%8C%E8%B4%A3/"/>
+    <id>https://xblind.net/2022/05/13/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E5%AE%89%E5%85%A8%E8%A7%92%E8%89%B2%E5%92%8C%E8%81%8C%E8%B4%A3/</id>
+    <published>2022-05-13T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><blockquote><p>显示安全角色如何映射到业务成果支持</p></blockquote></blockquote><p>传统上，业务和技术成果是使用计划/构建/运行框架来驱动的（对于数字化转型，随着所有阶段的快速迭代，该框架变得越来越敏]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;显示安全角色如何映射到业务成果支持&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;传统上，业务和技术成果是使用计划/构建/运行框架来驱动的（对于数字化转型，随着所有阶段的快速迭代，该框架变得越来越敏</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全架构体系参考——零信任原则下的安全现代化「Microsoft」</title>
+    <link href="https://xblind.net/2022/05/11/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E9%9B%B6%E4%BF%A1%E4%BB%BB%E5%8E%9F%E5%88%99%E4%B8%8B%E7%9A%84%E5%AE%89%E5%85%A8%E7%8E%B0%E4%BB%A3%E5%8C%96%E3%80%8CMicrosoft%E3%80%8D/"/>
+    <id>https://xblind.net/2022/05/11/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB%E5%8F%82%E8%80%83%E2%80%94%E2%80%94%E9%9B%B6%E4%BF%A1%E4%BB%BB%E5%8E%9F%E5%88%99%E4%B8%8B%E7%9A%84%E5%AE%89%E5%85%A8%E7%8E%B0%E4%BB%A3%E5%8C%96%E3%80%8CMicrosoft%E3%80%8D/</id>
+    <published>2022-05-11T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>#安全架构  网络安全架构体系参考——零信任原则下的安全现代化「Microsoft」</p><blockquote><blockquote><p>这一张图里干货满满，拆解开来学习下现代化的网络安全架构体系</p></blockquote></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#安全架构  网络安全架构体系参考——零信任原则下的安全现代化「Microsoft」&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这一张图里干货满满，拆解开来学习下现代化的网络安全架构体系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>IBM QRadar UBA(用户行为分析) 规则集合</title>
+    <link href="https://xblind.net/2022/04/22/IBM%20QRadar%20UBA(%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90)%20%E8%A7%84%E5%88%99%E9%9B%86%E5%90%88/"/>
+    <id>https://xblind.net/2022/04/22/IBM%20QRadar%20UBA(%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90)%20%E8%A7%84%E5%88%99%E9%9B%86%E5%90%88/</id>
+    <published>2022-04-22T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="UBA-规则包摘要"><a class="link"  class="headerlink"  href="https://uxss.net/atom.xml#UBA-规则包摘要"  title="UBA 规则包摘要"><i class="fas fa-external-link-alt"></i></a>UBA 规则包摘要</h2><table><thead><tr><th><strong>Content Pack]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;UBA-规则包摘要&quot;&gt;&lt;a class=&quot;link&quot;  class=&quot;headerlink&quot;  href=&quot;https://uxss.net/atom.xml#UBA-规则包摘要&quot;  title=&quot;UBA 规则包摘要&quot;&gt;&lt;i class=&quot;fas fa-exter</summary>
+      
+    
+    
+    
+    <category term="安全数据分析" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>云安全基线</title>
+    <link href="https://xblind.net/2022/04/04/%E4%BA%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF/"/>
+    <id>https://xblind.net/2022/04/04/%E4%BA%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF/</id>
+    <published>2022-04-04T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="网络安全"><a class="link"  class="headerlink"  href="https://uxss.net/atom.xml#网络安全"  title="网络安全"><i class="fas fa-external-link-alt"></i></a>网络安全</h2><p>网络安全包含用于保护 Azure 网络的控制措施，包括保护虚拟网络、建立专用连接、阻止和减少外部攻击以及保护 DNS。</p]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;网络安全&quot;&gt;&lt;a class=&quot;link&quot;  class=&quot;headerlink&quot;  href=&quot;https://uxss.net/atom.xml#网络安全&quot;  title=&quot;网络安全&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="安全架构" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>UEBA(用户和实体行为分析)可以用来做什么（十大场景）</title>
+    <link href="https://xblind.net/2022/03/15/UEBA(%E7%94%A8%E6%88%B7%E5%92%8C%E5%AE%9E%E4%BD%93%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90)%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%9D%A5%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%88%E5%8D%81%E5%A4%A7%E5%9C%BA%E6%99%AF%EF%BC%89/"/>
+    <id>https://xblind.net/2022/03/15/UEBA(%E7%94%A8%E6%88%B7%E5%92%8C%E5%AE%9E%E4%BD%93%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90)%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%9D%A5%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%88%E5%8D%81%E5%A4%A7%E5%9C%BA%E6%99%AF%EF%BC%89/</id>
+    <published>2022-03-15T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、UEBA简介"><a class="link"  class="headerlink"  href="https://uxss.net/atom.xml#一、UEBA简介"  title="一、UEBA简介"><i class="fas fa-external-link-alt"></i></a>一、UEBA简介</h2><p>UEBA 监控用户和实体的活动（如硬件设备和网络），并将当前活动与”正常”或”基线”行为进行]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、UEBA简介&quot;&gt;&lt;a class=&quot;link&quot;  class=&quot;headerlink&quot;  href=&quot;https://uxss.net/atom.xml#一、UEBA简介&quot;  title=&quot;一、UEBA简介&quot;&gt;&lt;i class=&quot;fas fa-external</summary>
+      
+    
+    
+    
+    <category term="安全数据分析" scheme="https://xblind.net/categories/%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java NashornJS引擎代码安全执行</title>
+    <link href="https://xblind.net/2022/01/28/Java%20NashornJS%E5%BC%95%E6%93%8E%E4%BB%A3%E7%A0%81%E5%AE%89%E5%85%A8%E6%89%A7%E8%A1%8C/"/>
+    <id>https://xblind.net/2022/01/28/Java%20NashornJS%E5%BC%95%E6%93%8E%E4%BB%A3%E7%A0%81%E5%AE%89%E5%85%A8%E6%89%A7%E8%A1%8C/</id>
+    <published>2022-01-28T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、什么是Nashorn"><a class="link"  class="headerlink"  href="https://uxss.net/atom.xml#一、什么是Nashorn"  title="一、什么是Nashorn"><i class="fas fa-external-link-alt"></i></a>一、什么是Nashorn</h2><p>在 Java SE 7 之前，JDK 附带了一个基于 Moz]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、什么是Nashorn&quot;&gt;&lt;a class=&quot;link&quot;  class=&quot;headerlink&quot;  href=&quot;https://uxss.net/atom.xml#一、什么是Nashorn&quot;  title=&quot;一、什么是Nashorn&quot;&gt;&lt;i class=&quot;fas</summary>
+      
+    
+    
+    
+    <category term="JAVA安全" scheme="https://xblind.net/categories/JAVA%E5%AE%89%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CVE-2021-44228 Log4Shell</title>
+    <link href="https://xblind.net/2021/12/15/CVE-2021-44228%20Log4Shell/"/>
+    <id>https://xblind.net/2021/12/15/CVE-2021-44228%20Log4Shell/</id>
+    <published>2021-12-15T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>2021年12月9日晚上，Log4j2 JNDI注入漏洞详情被公开。漏洞发现过程：通过公开的CodeQL规则扫描出来的漏洞。漏洞编号：CVE-2021-44228。影响范围：Apache Log4j 2.x &lt;= 2.15.0-rc1。</p><figure cla]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2021年12月9日晚上，Log4j2 JNDI注入漏洞详情被公开。漏洞发现过程：通过公开的CodeQL规则扫描出来的漏洞。漏洞编号：CVE-2021-44228。影响范围：Apache Log4j 2.x &amp;lt;= 2.15.0-rc1。&lt;/p&gt;
+&lt;figure cla</summary>
+      
+    
+    
+    
+    <category term="JAVA安全" scheme="https://xblind.net/categories/JAVA%E5%AE%89%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>安全盲点(XBlind)成立</title>
+    <link href="https://xblind.net/2021/11/19/hello-world/"/>
+    <id>https://xblind.net/2021/11/19/hello-world/</id>
+    <published>2021-11-19T08:00:00.000Z</published>
+    <updated>2022-07-25T01:03:43.150Z</updated>
+    
+    <content type="html"><![CDATA[<p>“盲点”(blindness)之极致，即是“洞见”(insight)之深处。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;“盲点”(blindness)之极致，即是“洞见”(insight)之深处。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="xblind" scheme="https://xblind.net/categories/xblind/"/>
+    
+    
+    <category term="event" scheme="https://xblind.net/tags/event/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>API安全生命周期</title>
+    <link href="https://xblind.net/2021/11/15/API%E5%AE%89%E5%85%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
+    <id>https://xblind.net/2021/11/15/API%E5%AE%89%E5%85%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/</id>
+    <published>2021-11-15T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="写在前面"><a class="link"  class="headerlink"  href="https://uxss.net/atom.xml#写在前面"  title="写在前面"><i class="fas fa-external-link-alt"></i></a>写在前面</h2><p>本文的由来主要是最近一年来对内部API风险治理过程中的总结。因为API的种类繁多，并没有写的很详细，但是在其中表达了很多AP]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;写在前面&quot;&gt;&lt;a class=&quot;link&quot;  class=&quot;headerlink&quot;  href=&quot;https://uxss.net/atom.xml#写在前面&quot;  title=&quot;写在前面&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="应用安全" scheme="https://xblind.net/categories/%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>从编写JDI调试到实现JDWP命令执行</title>
+    <link href="https://xblind.net/2021/09/06/%E4%BB%8E%E7%BC%96%E5%86%99JDI%E8%B0%83%E8%AF%95%E5%88%B0%E5%AE%9E%E7%8E%B0JDWP%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/"/>
+    <id>https://xblind.net/2021/09/06/%E4%BB%8E%E7%BC%96%E5%86%99JDI%E8%B0%83%E8%AF%95%E5%88%B0%E5%AE%9E%E7%8E%B0JDWP%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</id>
+    <published>2021-09-06T05:00:00.000Z</published>
+    <updated>2022-07-25T01:04:06.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-JPDA"><a class="link"  class="headerlink"  href="https://uxss.net/atom.xml#1-JPDA"  title="1.JPDA"><i class="fas fa-external-link-alt"></i></a>1.JPDA</h2><p>JPDA(Java Platform Debugger Architecture) 是 Java 平台调试体]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-JPDA&quot;&gt;&lt;a class=&quot;link&quot;  class=&quot;headerlink&quot;  href=&quot;https://uxss.net/atom.xml#1-JPDA&quot;  title=&quot;1.JPDA&quot;&gt;&lt;i class=&quot;fas fa-external-link-</summary>
+      
+    
+    
+    
+    <category term="JAVA安全" scheme="https://xblind.net/categories/JAVA%E5%AE%89%E5%85%A8/"/>
+    
+    
+  </entry>
+  
+</feed>
